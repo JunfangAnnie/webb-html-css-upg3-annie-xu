@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: ridge;
+}
+
+.impact {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.frame {
+    border-style: double;
+    display: inline-block;
+}
+
+.violet{
+    border-style: ridge;
+    border-color: purple;
+}
+
+#logo {
+    position: absolute;
+    border-radius: 20px;
+    width: 140px;
+    margin-left: -49%;
+    margin-top: 10.5px;
+}
+
+.big{
+    font-size: 4rem;
+}
+
+.small {
+    font-size: 0.7rem;
+}
+
+.furniture {
+    width: 300px;
+}
+
+nav {
+    font-size: 1.2rem;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    background-color: black;
+}
+
+nav a {
+     padding: 30px;
+}
+
+.orange{
+    background-color: orange;
+    overflow:hidden;
+}
+
+a {color: white;}
+
+a:link {text-decoration: none;}
+
+a:hover {color: orange}
